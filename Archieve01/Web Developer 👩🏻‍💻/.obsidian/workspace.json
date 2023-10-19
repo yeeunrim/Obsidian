@@ -1,0 +1,228 @@
+{
+  "main": {
+    "id": "3e984ad9a51ea827",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ecd51b86c6b4eda",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "365535ec35f61d45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer/1.  기본 명령어.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f6b2fed30b3c72a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1bca0e8bfbf1f8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28b8276f08531d81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
+            }
+          },
+          {
+            "id": "92ba4fe36f2bc12a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7adb977f3ef5e51c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 211.5
+  },
+  "right": {
+    "id": "2d140740e650d1cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "8741e29d245fddbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "618274973d26406c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer/1.  기본 명령어.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13eabfab73b401cf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer/1.  기본 명령어.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5a3dd81bc9d31c25",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f7a3479e4e62ab31",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer/1.  기본 명령어.md"
+              }
+            }
+          },
+          {
+            "id": "891c8363e8c70bd0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7d2d3b65b8208ec",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "c6819fbf341826c9",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian42-brat:BRAT": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "365535ec35f61d45",
+  "lastOpenFiles": [
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💡 개념 (Concept)/Download - 설치 방법.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💡 개념 (Concept)/1장. 오라클 DB 환경설정 및 구성 객체.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer/1.  기본 명령어.md",
+    "폴더 - 이미지/Pasted image 20231012155850.png",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💻 Oracle - SQL Developer",
+    "폴더 - 이미지/Pasted image 20231015143548.png",
+    "폴더 - 이미지/Pasted image 20231012155758.png",
+    "폴더 - 이미지/Pasted image 20230929130528.png",
+    "폴더 - 이미지/Pasted image 20230928211921.png",
+    "폴더 - 이미지/스크린샷 2023-10-15 오후 2.41.51.png",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💡 개념 (Concept)/무제 폴더",
+    "폴더 - 이미지/Pasted image 20231015144158.png",
+    "폴더 - 이미지/Pasted image 20231015144134.png",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💡 개념 (Concept)/1;.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/📊 LucidChart/4. user_board.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/💡 개념 (Concept)",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/📊 LucidChart/3. bookmall.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/📊 LucidChart/2. 학교 데이터베이스.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/📊 LucidChart/1. 부서와 사원.md",
+    "폴더 - 이미지/Pasted image 20231012161506.png",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/2023-10-04.md",
+    "폴더 - 이미지/Pasted image 20231012155151.png",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)/📊 LucidChart",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 데이터베이스 (DB)",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/2023-09-05.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/02. 변수와 자료형/4. 상수와 리터럴.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/02. 변수와 자료형/5. 형 변환.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/03. 자바의 여러 가지 연산자/1. 기본 연산자.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/00. 정리.canvas",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/무제 파일.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/01. 자바 프로그래밍 시작하기/1. 프로그래밍과 자바.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/03. 자바의 여러 가지 연산자/무제 파일.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/자바 프로그래밍 입문.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/공공데이터 융합 웹 애플리케이션 개발자 양성 과정.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/01. 자바 프로그래밍 시작하기/01. 자바 프로그래밍 시작하기.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/📖 자바 프로그래밍 입문.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/🗂️ 공공데이터 융합 웹 애플리케이션 개발자 양성 과정.md",
+    "2023-09-29.md",
+    "Context/spacesLastSync.log",
+    "Context",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/01. 자바 프로그래밍 시작하기/2. 자바 개발 환경 설치하기.md",
+    "무제 파일 1.canvas",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/02. 변수와 자료형/1. 데이터 표현.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/02. 변수와 자료형/2. 자료형.md",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/02. 변수와 자료형/3. 변수.md",
+    "🗂️ 공공데이터 융합 웹 애플리케이션 개발자 양성 과정/📖 자바 프로그래밍 입문/01. 자바 프로그래밍 시작하기/무제 폴더",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/15. 자바 입출력",
+    "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문/14. 예외 처리"
+  ]
+}

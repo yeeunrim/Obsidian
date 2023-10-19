@@ -1,0 +1,26 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "📁",
+      "📖",
+      "💻"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "공공데이터 융합 웹 애플리케이션 개발자 양성 과정": "📁",
+  "공공데이터 융합 웹 애플리케이션 개발자 양성 과정/자바 프로그래밍 입문": "📖",
+  "폴더 - 이미지": "📁"
+}
