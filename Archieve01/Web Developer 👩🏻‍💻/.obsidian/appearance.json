@@ -1,7 +1,7 @@
 {
   "accentColor": "#d298c5",
   "cssTheme": "AnuPpuccin",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "translucency": false,
   "enabledCssSnippets": [
     "checkbox-stroke",
